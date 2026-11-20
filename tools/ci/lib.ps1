@@ -1,4 +1,4 @@
-# Shared helpers for the local gates (Forge showcase). Dot-source this file. Values live in ci.config.json.
+# Shared helpers for the local gates (ForgeV showcase). Dot-source this file. Values live in ci.config.json.
 $ErrorActionPreference = 'Stop'
 $script:CiRoot = (Resolve-Path (Join-Path $PSScriptRoot '..\..')).Path
 $script:Cfg = Get-Content -Raw -LiteralPath (Join-Path $PSScriptRoot 'ci.config.json') | ConvertFrom-Json
