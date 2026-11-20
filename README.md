@@ -1,8 +1,8 @@
-# Forge
+# ForgeV
 
 A fully offline fitness and nutrition logbook for Android, built in Flutter. No account, no cloud, no subscription. Made for the self-directed athlete who already has a plan and wants a fast, private, powerful tool to track it.
 
-> **Note:** This repository is a **showcase**. The full source is private. Forge is an active project being prepared for store release. The screenshots, architecture and formulas below reflect the real app.
+> **Note:** This repository is a **showcase**. The full source is private. ForgeV is an active project being prepared for store release. The screenshots, architecture and formulas below reflect the real app.
 
 ---
 
